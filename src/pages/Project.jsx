@@ -4,7 +4,7 @@ const projectsList = [
   {
     id: 1,
     title: "Saas Landing Page",
-    description: "A beautiful landing page",
+    description: "A sleek and responsive SaaS landing page that effectively promotes a software product by showcasing its features, benefits, and a clear call-to-action to drive user signups.",
     imageUrl: "/detail-image-4_1706545833179.jpg",
     tags: ["React", "Tailwind CSS", "Supabase"],
     demourl: "#",
