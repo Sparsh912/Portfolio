@@ -109,7 +109,7 @@ const Project = () => {
             className="cosmic-button w-fit flex items-center mx-auto gap-2"
             target="_blank"
             rel="noopener noreferrer"
-            href="https://github.com/avnish0902"
+            href="https://github.com/Sparsh912"
           >
             Check my GitHub <ArrowRight size={16} />
           </a>
